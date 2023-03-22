@@ -6,3 +6,4 @@
 - Técnico em Eletroeletrônica - SENAI
 - Ensino Médio - SESI Marília
 - Digitação - MicroPro
+- Games e Designer - MicroPro
