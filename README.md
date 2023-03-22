@@ -1,3 +1,3 @@
-# Curriculo Pedro Miguel Bonini de Cerqueira
+# Curriculo 
 ---
-
+## Pedro Miguel Bonini de Cerqueira
