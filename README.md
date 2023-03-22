@@ -2,4 +2,4 @@
 ---
 
 ## EXPERIÊNCIA
-- Técnico de informática - Anjinhos Presentes
+- Anjinhos Presentes - Emissão de NF, elaboração de contratos, orçamentos, admnistrativo em geral e vendedor.
