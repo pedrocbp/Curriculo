@@ -1,7 +1,6 @@
 # Curriculo 
 ## Pedro Miguel Bonini de Cerqueira
 ---
-
 ## DADOS PESSOAIS
 - 31/03/2005
 - Marília/SP
@@ -31,3 +30,6 @@ Estou em busca da minha primeira oportunidade na área de programação, onde po
 - Aprendizado contínuo
 - Trabalho em equipe
 - Adaptabilidade
+---
+Português Nativo<br/>
+Inglês Intermediário - Estou fazendo um curso e estudando todos os dias para alcançar a fluência.
