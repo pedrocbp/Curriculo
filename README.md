@@ -9,7 +9,6 @@
 - [Linkedin](https://www.linkedin.com/in/pedro-miguel-0b0446229)
 ---
 ## OBJETIVO
-Estou em busca da minha primeira oportunidade na área de programação, onde possa aplicar minhas habilidades em resolução de problemas. Desejo atuar em um ambiente de crescimento e perspectiva para minha carreira.
 ---
 ## FORMAÇÃO ACADÊMICA
 - Análise e Desenvolvimento de Sistemas - UNIMAR (Cursando)
