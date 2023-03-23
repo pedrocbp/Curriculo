@@ -9,6 +9,8 @@
 - pedromiguelboce@gmail.com
 - [Linkedin](https://www.linkedin.com/in/pedro-miguel-0b0446229)
 ---
+Estou em busca da minha primeira oportunidade na área de programação, onde possa aplicar minhas habilidades em resolução de problemas. Desejo atuar em um ambiente de crescimento e perspectiva para minha carreira.
+---
 ## EXPERIÊNCIA
 - Anjinhos Presentes - Emissão de NF, elaboração de contratos, orçamentos, admnistrativo em geral e vendedor.
 ## HABILIDADES
