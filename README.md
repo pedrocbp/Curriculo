@@ -8,6 +8,7 @@
 - pedromiguelboce@gmail.com
 - [Linkedin](https://www.linkedin.com/in/pedro-miguel-0b0446229)
 ---
+## OBJETIVO
 Estou em busca da minha primeira oportunidade na área de programação, onde possa aplicar minhas habilidades em resolução de problemas. Desejo atuar em um ambiente de crescimento e perspectiva para minha carreira.
 ---
 ## FORMAÇÃO ACADÊMICA
@@ -31,5 +32,6 @@ Estou em busca da minha primeira oportunidade na área de programação, onde po
 - Trabalho em equipe
 - Adaptabilidade
 ---
+## IDIOMAS
 Português Nativo<br/>
 Inglês Intermediário - Estou fazendo um curso e estudando todos os dias para alcançar a fluência.
