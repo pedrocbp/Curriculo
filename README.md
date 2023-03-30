@@ -34,5 +34,5 @@ Estou em busca da minha primeira oportunidade na área de programação, onde po
 - Adaptabilidade
 ---
 ## IDIOMAS
-Português Nativo<br/>
-Inglês Intermediário - Estou fazendo um curso e estudando todos os dias para alcançar a fluência.
+- Português Nativo
+- Inglês Intermediário - Estou fazendo um curso e estudando todos os dias para alcançar a fluência.
