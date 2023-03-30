@@ -1,4 +1,4 @@
-# Curriculo 
+# CURRÍCULO
 ## Pedro Miguel Bonini de Cerqueira
 ---
 ## DADOS PESSOAIS
