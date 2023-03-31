@@ -14,6 +14,7 @@ Estou em busca da minha primeira oportunidade na área de programação, onde po
 ---
 ## FORMAÇÃO ACADÊMICA
 - Análise e Desenvolvimento de Sistemas - UNIMAR (Cursando)
+- Desenvonvimento WEB - Udemy (Cursando)
 - Técnico em Eletroeletrônica - SENAI
 - Ensino Médio - SESI Marília
 - Digitação - MicroPro
